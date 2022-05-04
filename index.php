@@ -6,10 +6,10 @@
 <h2>Метод Get</h2>
 <form method="get" action = "">
     <label>
-        enter a <input type="text" name="a">
+        enter a <input type="number" name="a">
     </label>
     <label>
-        enter b <input type="text" name="b">
+        enter b <input type="number" name="b">
     </label>
     <input type="submit" value="обрахувати">
 </form>
